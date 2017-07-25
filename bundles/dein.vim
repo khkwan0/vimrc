@@ -1,0 +1,1 @@
+repos/github.com/Shougo/dein.vim/

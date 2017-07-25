@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/ken/nanny/node_modules/package-json'
+let g:netrw_dirhist_2='/home/ken/goldendom/views'
+let g:netrw_dirhist_3='/home/ken/webrtc/views'
+let g:netrw_dirhist_4='/home/ken/nanny_api'
